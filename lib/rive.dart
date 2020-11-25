@@ -9,6 +9,7 @@ export 'package:rive/src/rive_core/animation/linear_animation.dart';
 export 'package:rive/src/rive_core/animation/linear_animation_instance.dart';
 export 'package:rive/src/rive_core/animation/loop.dart';
 export 'package:rive/src/rive_core/artboard.dart';
+export 'package:rive/src/rive_core/node.dart';
 export 'package:rive/src/rive_core/shapes/shape.dart';
 export 'package:rive/src/rive_core/shapes/paint/fill.dart';
 export 'package:rive/src/rive_core/shapes/paint/stroke.dart';
